@@ -1,0 +1,5 @@
+socket
+colorama
+threading
+argparse
+platform
